@@ -1,0 +1,72 @@
+#cabeza{
+	background: grey;
+	text-align: center;
+	width: auto;
+	height: 200px;
+}
+
+#principal{
+	background: yellow;
+	width: auto;
+	height: 500px;
+}
+
+#cupo{
+	background: yellow;
+	width: auto;
+	height: 400px;
+}
+
+#somos{
+	background: pink;
+	width: auto;
+	height: 400px;
+}
+
+#pie{
+	background-color: green;
+	width: auto;
+	height: 300px;
+}
+
+#ham{
+	background: orange;
+	width: auto;
+	height: 400px;
+}
+
+#beb{
+	background: red;
+	width: auto;
+	height: 400px;
+}
+
+#pos{
+	background: brown;
+	width: auto;
+	height: 400px;
+}
+
+#ext{
+	background: purple;
+	width: auto;
+	height: 400px;
+}
+
+#fotos{
+	background-color: seagreen;
+	width: auto;
+	height: 800px;
+}
+
+#pack{
+	background-color: blue;
+	width: auto;
+	height: 400px;
+}
+
+#cupones{
+	background-color: gold;
+	width: auto;
+	height: 400px;
+}

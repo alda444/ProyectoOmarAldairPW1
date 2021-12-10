@@ -1,0 +1,225 @@
+#cabeza{
+	background: #AA6D4F;
+	text-align: center;
+	width: auto;
+	height: 215px;
+	margin: auto;
+	border-bottom: solid 5px black;
+}
+
+#principal{
+	background: #E9A26E;
+	width: auto;
+	height: 450px;
+	margin: auto;
+}
+
+#cupo{
+	text-align: center;
+	background: #E9A26E;
+	width: auto;
+	height: 400px;
+	margin: auto;
+}
+
+#somos{
+	background: #E9A26E;
+	width: auto;
+	height: 400px;
+}
+
+#pie{
+	background-color: #AA6D4F;
+	width: auto;
+	height: 200px;
+	border-top: solid 7px black;
+}
+
+#ham{
+	background: #E9A26E;
+	width: auto;
+	height: 1500px;
+}
+
+#beb{
+	background: #E9A26E;
+	width: auto;
+	height: 1000px;
+}
+
+#pos{
+	background: #E9A26E;
+	width: auto;
+	height: 800px;
+}
+
+#ext{
+	background: #E9A26E;
+	width: auto;
+	height: 800px;
+}
+
+#fotos{
+	background-color: #E9A26E;
+	width: auto;
+	height: 1250px;
+}
+
+#pack{
+	background-color: #E9A26E;
+	width: auto;
+	height: 700px;
+}
+
+#cupones{
+	background-color: #E9A26E;
+	width: auto;
+	height: 400px;
+}
+
+#logo{
+	float: left;
+	width: 200px;
+	height: 200px;
+	margin: 10px 0px 5px 100px;
+}
+
+#alma{
+	margin: 0px 250px 0px 0px;
+}
+
+ul#links li{
+	display: inline-block;
+	padding: 0 0 0 0.75em;
+	margin: 1em 2em 0 0.75em;
+
+}
+
+#titulo{
+	font-size: 50px;
+	margin: 0px 220px 0px 0px;
+	font-family: Forte;
+}
+
+#monster{
+	width: 325px;
+	height: 400px;
+	margin: -50px 0px 0px 250px;
+}
+
+#timonster{
+	text-align: center;
+	font-size: 75px;
+	margin: 20px 0px 0px 100px;
+}
+
+#txmonster{
+	text-align: center;
+	font-size: 40px;
+	margin: -350px 0px 0px 100px;
+}
+
+#tx1monster{
+	text-align: center;
+	font-size: 20px;
+	margin: 50px 0px 0px 100px;
+}
+
+#monster2{
+	width: 700px;
+	height: 400px;
+	margin: 0px 0px 0px 575px;
+}
+
+
+#imagen1{
+	float: left;
+	width: 400px;
+	height: 300px;
+	margin: 0px 0px 5px 100px
+}
+
+#imagen2{
+	float: center;
+	width: 400px;
+	height: 300px;
+}
+
+#imagen3{
+	float: right;
+	width: 400px;
+	height: 300px;
+	margin: 0px 100px 5px 0px 
+}
+
+#ver{
+	margin: 2.5em 0 0 0;
+}
+
+#cupon{
+	margin: 0 37em 0 0;
+	font-size: 40px;
+}
+
+#cupon2{
+	display: inline-block;
+	margin: 0 2.5em 0.75em 68em;
+	font-size: 23px;
+}
+
+body{
+	background-color: #E9A26E;
+}
+
+#somos{
+	margin: 1em 0 0 0;
+}
+
+#us{
+	width: 500px;
+	height: 300px;
+	margin: 2em 0 0 32em;
+}
+#tl{
+	width: 200px;
+	height: 10px;
+	margin: -12.8em 0 0 42.5em;
+}
+
+#tx{
+	width: 200px;
+	height: 50px;
+	margin: 1.5em 0 0 64em;
+}
+
+#rede{
+	width: 40px;
+	height: 20px;
+	text-align: center;
+}
+
+#redes{
+	margin: -7em 0 0 50em;
+}
+
+#cmenu{
+	width: 350px;
+	height: 300px;
+}
+
+ul#comida{
+	display: inline-block;
+	padding: 0 0 0 0.75em;
+	margin: 1em 2em 0 0.75em;
+
+}
+
+#pak{
+	text-align: center;
+}
+
+#linea{
+	margin: 0px 0px 0px 100px;
+	width: 1650px;
+	height: auto;
+}
